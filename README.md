@@ -1,5 +1,17 @@
-I'm open to collaborating. 
-I am most familiar with Python, C, and Java, but I'm always looking to learn more.
+GNU/Linux enthusiast.
+
+Likes:
+- Low level programming
+- Automation
+- Programming language implementation
+- vim & neovim
+- Reading the docs (allegedly)
+- Learning anything and everything about computers
+
+Dislikes:
+- Bad documentation (looking at you openssl c library)
+- CSS :/
+- c's error handling (or lack thereof)
 
 [View my resume](./Resume.pdf)
 
